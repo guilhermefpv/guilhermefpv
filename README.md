@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @guilhermefpv
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 👋 Hi, there! 👋
 
+- Me, I'm Guilherme, a 45 years old technology enthusiast from Brazil and I love my hobby Electronics and Drones. I like educating people in IT. You can find me on Twitter, and Instagram.
 <!---
-guilhermefpv/guilhermefpv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
+
+
