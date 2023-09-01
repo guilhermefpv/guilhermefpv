@@ -1,8 +1,16 @@
-## 👋 Hi, there! 👋
+## 👋Hello, I'm Guilherme! 👋
 
-- Me, I'm Guilherme, a 46 years old technology enthusiast from Brazil and I love my hobby Electronics and Drones. I like educating people in IT.
+I am a professional with more than 15 years of experience in the field of
+infrastructure and automation resources in the Cloud. I am a technology enthusiast and I love my hobby Do it yourself Electronics, Drones, Photography, Hiking and Camping.
+  
+💻 DevOps Engineer
+🏡 Brazilian, Based in Rio de Janeiro, RJ.
+
+🌎 Find me around the web
+💼 https://www.linkedin.com/in/guilhermefpv/
+
 <!---
-
+🚀 https://guilhermefpv.com/
 --->
 
 
